@@ -1,0 +1,19 @@
+Level 1: Dasar (Linux, Git, Networking)
+Setup Linux Server
+ - Deploy Ubuntu di VM / Cloud (AWS EC2/Oracle Cloud Free Tier).
+	 - Melakukan deploy dan setting server ubuntu di VirtualBox (di Cloud belum bisa karena tidak punya Kartu Kredit)
+	 - Setelah terinstal kemudian dapat dilakukan remote dari Putty dengan port 22. Jika port 22 ditolak, cek SSH lalu aktifkan.
+	 - Aktifkan firewall untuk mengkonfigurasi koneksi mana yang diizinkan
+
+ - Buat user, manage service, konfigurasi firewall.
+	 - Tambahkan user baru dan jadikan sebagai admin
+	 - Tambahkan SSH Key Authentication untuk login tanpa password
+	 - Install web server apache2
+	 - Tambahkan port baru 80/tcp agar web server dapat diakses dari lokal
+
+Git & Collaboration
+ - Buat repo GitHub.
+	 - Membuat repo Github belajar-devops
+ - Latihan branching & pull request.
+	 - Membuat beberapa file dan mengupload ke Github
+
