@@ -17,3 +17,16 @@ Git & Collaboration
  - Latihan branching & pull request.
 	 - Membuat beberapa file dan mengupload ke Github
 
+
+Level 2: DevOps Fundamentals
+CI/CD Pipeline Sederhana
+ - Gunakan GitHub Actions / GitLab CI.
+	 - Build aplikasi Flask success
+Docker Project
+ - Buat Dockerfile untuk aplikasi.
+	 - Membuat Docker file untuk aplikasi flask dan dijalankan di port 5000:5000
+ - Push ke Docker Hub.
+	 - Push ke Docker Hub
+Kubernetes Mini Project
+Deploy aplikasi di Minikube / Kind.
+Tambah service & ingress.
